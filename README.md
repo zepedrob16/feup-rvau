@@ -1,2 +1,2 @@
 # feup-rvau
-platforme notice us please
+Public repository for the work developed in RVAU @ FEUP 
